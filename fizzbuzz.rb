@@ -1,5 +1,8 @@
 def fizzbuzz(i)
-  fizzbuzz(3) = "Fizz"
-  fizz_5 = fizzbuzz(5)
+  if i % 3
+    puts "Fizz"
+  if i % 5
+    puts "Buzz"
+  if i %   
   fizz_15 = fizzbuzz(15)
 end  
