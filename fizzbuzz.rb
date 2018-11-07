@@ -5,4 +5,5 @@ def fizzbuzz(i)
     puts "Buzz"
   if i % 3 and if i % 5
     puts "FizzBuzz"
+  if i   
 end  
