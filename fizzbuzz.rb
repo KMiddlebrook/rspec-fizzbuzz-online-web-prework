@@ -3,6 +3,6 @@ def fizzbuzz(i)
     puts "Fizz"
   if i % 5
     puts "Buzz"
-  if i %   
-  fizz_15 = fizzbuzz(15)
+  if i % 3 and if i % 5
+    puts "FizzBuzz"
 end  
